@@ -1,3 +1,35 @@
+## tl;dr
+
+    bundle exec jekyll serve
+
+Seems that: 
+
+    jekyll serve/build
+
+is enough for the deploy. Why do I need bundle again?
+
+## My deploy
+
+Compile on your machine:
+
+    bundle exec jekyll build
+  
+Push changes to github  
+Pull changes in the server
+    
+    cd ~/workspace/vpradodafons/
+    git pull origin master
+
+Copy `_site` to your local `.www` folder  
+
+    cp -r _site/* ~/.www/
+
+Change permissions:
+    
+    cd ~/.www/
+    chmod -R 0755 *
+
+
 # al-folio
 
 <div align="center">
@@ -250,7 +282,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
     - [Collections](#collections)
     - [Layouts](#layouts)
       - [The iconic style of Distill](#the-iconic-style-of-distill)
-      - [Full support for math &amp; code](#full-support-for-math--code)
+      - [Full support for math \& code](#full-support-for-math--code)
       - [Photos, Audio, Video and more](#photos-audio-video-and-more)
     - [Other features](#other-features)
       - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
@@ -265,7 +297,6 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
     - [All Contributors](#all-contributors)
   - [Star History](#star-history)
   - [License](#license)
-  <!--te-->
 
 ## Getting started
 
