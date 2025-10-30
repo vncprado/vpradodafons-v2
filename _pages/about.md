@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 ---
 
 Hi!  
-I'm an assistant professor in the Department of Computer Science at the Memorial University of Newfoundland.
+I'm an associate professor in the Department of Computer Science at the Memorial University of Newfoundland.
 My research interests are Robotics, Tactile sensing, Robotic manipulation, Human-machine interaction, Human-robot interaction, Applied machine learning and Artificial intelligence.
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
