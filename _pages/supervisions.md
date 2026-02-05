@@ -7,7 +7,8 @@ nav: true
 ---
 
 * PhD
-  * Ruslan Masinja
+  * Mateus Nazário Coelho
+  * Frederico Luiz Martins de Sousa
   * Elahe Mohammadreza
 
 * Masters
@@ -48,6 +49,7 @@ nav: true
   * Kadambari Bhujbal
 
 * Mentorship
+  * Fabio Marques Da Silva (UFRA)
   * Issah Nazif Suleiman (Mitacs BSI)
   * Igor Cardoso - BSc (IME)
   * Carlos Gomes - BSc (IME)
