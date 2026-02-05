@@ -17,8 +17,8 @@ Compile on your machine:
 Push changes to github  
 Pull changes in the server
     
-    cd ~/workspace/vpradodafons/
-    git pull origin master
+    cd ~/workspace/vpradodafons-v2/
+    git pull origin main
 
 Copy `_site` to your local `.www` folder  
 
