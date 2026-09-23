@@ -42,6 +42,9 @@ nav: true
   * Iftekhar Hossain Masud
   * S M Arifuzzaman
 
+* Visiting PhD
+  * Anderson de França Silva
+
 * Mitacs Globalink
   * Luize Cunha Duarte
   * Dante Santos

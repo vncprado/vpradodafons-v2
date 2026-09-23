@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.cs.mun.ca/~vpradodafons/sitemap.xml
+Sitemap: http://localhost:4000/~vpradodafons/sitemap.xml

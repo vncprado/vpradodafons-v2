@@ -8,8 +8,9 @@ nav: true
 * Research Labs
   * <a href="https://sites.google.com/view/ucmi/home" target="_blank">UCML</a>
   <!-- * <a href="http://www.cs.mun.ca/~asoaresjunio/" target="_blank">Mobility and Data Analytics Lab</a> -->
-  * <a href="https://thiagoeustakio.github.io/" target="_blank">HRRG</a> (Lakehead)
+  * <a href="https://wp.mun.ca/romecola/" target="_blank">RoMeCoLa</a>
   * <a href="https://www.vaclab.ca/" target="_blank">Visual and Analytic Computing Lab</a>
+  * <a href="https://thiagoeustakio.github.io/" target="_blank">HRRG</a> (Lakehead)
   * RobotIME - IME - Brazil
   * UFPB - Brazil
   * UFRA - Brazil
